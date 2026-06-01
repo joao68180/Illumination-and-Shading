@@ -1,6 +1,6 @@
-#Illumination and Shading project
+# Illumination and Shading project
 
-# WebGL Shading
+# Project
 
 Interactive WebGL application developed for the Computer Graphics and Interfaces course at NOVA FCT, exploring Phong and Gouraud shading models with configurable light sources and camera controls.
 
